@@ -1,5 +1,9 @@
 ## [Unreleased](https://github.com/arafa16/learn_odoo/compare/1.0.0...main)
 
+## [2.0.0](https://github.com/arafa16/learn_odoo/releases/tag/2.0.0) - 2025-05-06
+
+- build: create printout custom by [@arafa16](https://github.com/arafa16) in [#750e197](https://github.com/arafa16/learn_odoo/commit/750e19736234ed9b8440dc71a2fe73226f738f5b).
+
 ## [1.0.0](https://github.com/arafa16/learn_odoo/releases/tag/1.0.0) - 2025-05-06
 
 - build: make customization modul by [@arafa16](https://github.com/arafa16) in [#0abcb81](https://github.com/arafa16/learn_odoo/commit/0abcb81c779e53dd020c305b67dda0e10c49ead6).
