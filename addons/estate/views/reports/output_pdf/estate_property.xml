@@ -24,7 +24,6 @@
 	            <div class="page">
 	                <h2>Report Estate</h2>
 	                <p>This object's name is <span t-field="doc.name"/></p>
-
 	                <table>
 	                	<tr>
 	                		<td><span t-field="doc.name"/></td>
