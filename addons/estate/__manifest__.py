@@ -14,6 +14,8 @@
 
         # templates
         # 'data/templates/example_email_template.xml',
+        'data/res.groups.csv',
+        'data/ir.model.access.csv',
 
         # views
         'views/estate_property.xml',
@@ -30,5 +32,6 @@
 
         # Reports
         'views/reports/output_pdf/estate_property.xml',
+        'views/reports/output_pdf/estate_property_new.xml',
     ],
 }
