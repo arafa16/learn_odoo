@@ -1,5 +1,15 @@
 ## [Unreleased](https://github.com/arafa16/learn_odoo/compare/3.0.0...main)
 
+## [4.0.0](https://github.com/arafa16/learn_odoo/releases/tag/4.0.0) - 2025-05-07
+
+- build: declare controller in init by [@arafa16](https://github.com/arafa16) in [#b29bf00](https://github.com/arafa16/learn_odoo/commit/b29bf006dccb8061c33ef336b2dd7219b2fdbc96).
+
+- build: make api example by [@arafa16](https://github.com/arafa16) in [#666bf75](https://github.com/arafa16/learn_odoo/commit/666bf7591d84014b8f126cc8477f40ee1bbe8fb7).
+
+- build: add smile api rest in addons by [@arafa16](https://github.com/arafa16) in [#f63e62d](https://github.com/arafa16/learn_odoo/commit/f63e62df7cf35bedfdea252a5695a38c6b943e56).
+
+
+
 ## [3.0.0](https://github.com/arafa16/learn_odoo/releases/tag/3.0.0) - 2025-05-07
 
 - build: set access group and template in manifest by [@arafa16](https://github.com/arafa16) in [#76e45b0](https://github.com/arafa16/learn_odoo/commit/76e45b08471d02f5417adc37c3d86277c0b47926).
