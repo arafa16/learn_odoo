@@ -1,6 +1,7 @@
 from odoo import http
 import json
 import requests
+from ..utils.auth_utils import authenticate
 
 class EstateProperty(http.Controller):
 	@http.route('/healthcheck', auth='public', methods=['GET', 'POST'])
@@ -12,6 +13,7 @@ class EstateProperty(http.Controller):
 		return "This is accessible for authenticated user"
 
 	@http.route('/entries', auth='public')
+	@authenticate
 	def entries(self, **kw):
 		response = requests.get("https://freedictionaryapi.com/api/v1/entries/en/public")
 		return json.dumps(response.json())
