@@ -1,4 +1,11 @@
-## [Unreleased](https://github.com/arafa16/learn_odoo/compare/3.0.0...main)
+## [Unreleased](https://github.com/arafa16/learn_odoo/compare/5.0.0...main)
+
+## [5.0.0](https://github.com/arafa16/learn_odoo/releases/tag/5.0.0) - 2025-05-10
+
+- build: make api for akses estate property tag by [@arafa16](https://github.com/arafa16) in [#38add50](https://github.com/arafa16/learn_odoo/commit/38add50295bb955407cd4ac3b770d93d094499e0).
+
+- build: make token user for akses api by [@arafa16](https://github.com/arafa16) in [#124fb71](https://github.com/arafa16/learn_odoo/commit/124fb71cf74a943dbad995854c588c26d40780cd).
+
 
 ## [4.0.0](https://github.com/arafa16/learn_odoo/releases/tag/4.0.0) - 2025-05-07
 
