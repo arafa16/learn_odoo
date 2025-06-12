@@ -1,4 +1,8 @@
-## [Unreleased](https://github.com/arafa16/learn_odoo/compare/5.0.0...main)
+## [Unreleased](https://github.com/arafa16/learn_odoo/compare/6.0.0...main)
+
+## [6.0.0](https://github.com/arafa16/learn_odoo/releases/tag/6.0.0) - 2025-05-12
+
+- build: create model testing scripts by [@arafa16](https://github.com/arafa16) in [#e83b067](https://github.com/arafa16/learn_odoo/commit/e83b067e98ca08a7fc253f185d41750e772cae26).
 
 ## [5.0.0](https://github.com/arafa16/learn_odoo/releases/tag/5.0.0) - 2025-05-10
 
