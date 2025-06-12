@@ -1,4 +1,8 @@
-## [Unreleased](https://github.com/arafa16/learn_odoo/compare/6.0.0...main)
+## [Unreleased](https://github.com/arafa16/learn_odoo/compare/7.0.0...main)
+
+## [7.0.0](https://github.com/arafa16/learn_odoo/releases/tag/7.0.0) - 2025-05-12
+
+- build: create api testing by [@arafa16](https://github.com/arafa16) in [#ccc1cc8](https://github.com/arafa16/learn_odoo/commit/ccc1cc8596f42fa71928d5ac0809bb06bceef372).
 
 ## [6.0.0](https://github.com/arafa16/learn_odoo/releases/tag/6.0.0) - 2025-05-12
 
